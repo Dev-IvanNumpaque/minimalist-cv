@@ -1,0 +1,237 @@
+{
+  "basics": {
+    "name": "Ivan Dario Numpaque",
+    "label": "Desarrollador Full Stack | Java & C# | Analista de Datos SQL, Oracle, Python.",
+    "image": "https://media.licdn.com/dms/image/v2/C5603AQG3T6sECEADGg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1621993897676?e=1749081600&v=beta&t=m5Pw1r02PkN-yA9z4rCjdllQwEcbw6_bp1W_cInLtsg",
+    "email": "ivan.numpaque@outlook.com",
+    "phone": "+573223706584",
+    "url": "dev-ivannumpaque.co",
+    "summary": "Desarrollador de Software y Full Stack Apasionado: Desarrollador altamente motivado y con amplia experiencia en tecnologías backend, incluyendo Java, Python, SQL y Node.js. Posee un entendimiento integral del desarrollo frontend utilizando JavaScript, React, y es particularmente competente con el framework Astro para la construcción de sitios web de alto rendimiento. Impulsado por la pasión por la inteligencia artificial, actualmente expande su experiencia a través de cursos en línea dedicados y proyectos personales en ciencia de datos. Capacidad comprobada para entregar soluciones creativas y efectivas como freelancer. Deseoso de contribuir a equipos dinámicos que compartan una visión de innovación y crecimiento profesional continuo.",
+    "location": {
+      "address": "",
+      "postalCode": "111115",
+      "city": "Bogotá",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "devivannumpaque",
+        "url": "https://linkedin.com/in/devivannumpaque"
+      },
+      
+      {
+        "network": "GitHub",
+        "username": "ivannumpaque",
+        "url": "https://github.com/dev-ivannumpaque"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Freelance",
+      "position": "Full Stack Developer",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "summary": "Desarrollo de aplicaciones web utilizando React, Node.js y bases de datos SQL. Implementación de soluciones tecnológicas para diversos clientes.",
+      "highlights": [
+        "Desarrollo de aplicaciones web responsive",
+        "Implementación de APIs RESTful",
+        "Optimización de rendimiento en aplicaciones web"
+      ]
+    },
+    {
+      "name": "Proyectos Personales",
+      "position": "Desarrollador Web",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Creación de proyectos personales para fortalecer habilidades en desarrollo web y experimentar con nuevas tecnologías.",
+      "highlights": [
+        "Desarrollo de aplicaciones con React y Next.js",
+        "Implementación de bases de datos SQL y NoSQL",
+        "Despliegue de aplicaciones en plataformas cloud"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Politecnico Internacional",
+      "url": "https://politecnicointernacional.edu.co/",
+      "area": "tecnología en desarrollo de software",
+      "studyType": "Bachelor",
+      "startDate": "2022-01-01",
+      "endDate": "2024-12-01",
+      "score": "",
+      "courses": [
+        "Desarrollo de Software",
+        "Bases de Datos",
+        "Algoritmos y Estructuras de Datos"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "React - The Complete Guide",
+      "date": "2022-03-15",
+      "issuer": "Udemy",
+      "url": "https://udemy.com"
+    },
+    {
+      "name": "Node.js Developer",
+      "date": "2022-05-20",
+      "issuer": "Platzi",
+      "url": "https://platzi.com"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermedio",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Desarrollo Web",
+      "keywords": [
+        "Frontend",
+        "Backend",
+        "Nuevas tecnologías"
+      ]
+    },
+    {
+      "name": "Aprendizaje continuo",
+      "keywords": [
+        "Cursos online",
+        "Documentación técnica",
+        "Comunidades de desarrollo"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Portfolio Personal",
+      "isActive": true,
+      "description": "Sitio web personal para mostrar proyectos y habilidades en desarrollo web",
+      "highlights": [
+        "Desarrollado con React y Next.js",
+        "Diseño responsive con Tailwind CSS",
+        "Optimizado para SEO"
+      ],
+      "url": "https://dev-ivannumpaque.co"
+    },
+    {
+      "name": "E-commerce Demo",
+      "isActive": true,
+      "description": "Aplicación de comercio electrónico con funcionalidades básicas",
+      "highlights": [
+        "Frontend con React",
+        "Backend con Node.js y Express",
+        "Base de datos MongoDB"
+      ],
+      "url": "",
+      "github": "https://github.com/ivannumpaque/ecommerce-demo"
+    },
+    {
+      "name": "Task Manager",
+      "isActive": true,
+      "description": "Aplicación para gestión de tareas y proyectos",
+      "highlights": [
+        "React con hooks",
+        "Firebase para autenticación y base de datos",
+        "Funcionalidades de arrastrar y soltar"
+      ],
+      "url": "",
+      "github": "https://github.com/ivannumpaque/task-manager"
+    }
+  ]
+}
