@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="logo.png" height="90px" width="auto" /> 
+<img src="https://www.stickerni.tn/wp-content/uploads/2021/03/coder-logo.png" height="90px" width="auto" /> 
 <h2>
     <em>Resumen</em> minimalista maquetado para web y pdf
 </h2>

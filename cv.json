@@ -2,7 +2,7 @@
   "basics": {
     "name": "Ivan Dario Numpaque",
     "label": "Desarrollador Full Stack | Java & C# | Analista de Datos SQL, Oracle, Python.",
-    "image": "https://media.licdn.com/dms/image/v2/C5603AQG3T6sECEADGg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1621993897676?e=1749081600&v=beta&t=m5Pw1r02PkN-yA9z4rCjdllQwEcbw6_bp1W_cInLtsg",
+    "image": "/profile.jpg",
     "email": "ivan.numpaque@outlook.com",
     "phone": "+573223706584",
     "url": "dev-ivannumpaque.co",
@@ -203,11 +203,11 @@
       "isActive": true,
       "description": "Sitio web personal para mostrar proyectos y habilidades en desarrollo web",
       "highlights": [
-        "Desarrollado con React y Next.js",
+        "Desarrollado con Astro y Next.js",
         "Diseño responsive con Tailwind CSS",
         "Optimizado para SEO"
       ],
-      "url": "https://dev-ivannumpaque.co"
+      "url": "https://devivannumpaque.web.app"
     },
     {
       "name": "E-commerce Demo",
@@ -219,7 +219,7 @@
         "Base de datos MongoDB"
       ],
       "url": "",
-      "github": "https://github.com/ivannumpaque/ecommerce-demo"
+      "github": "https://github.com/Dev-IvanNumpaque/ecommerce-demo.git"
     },
     {
       "name": "Task Manager",
@@ -231,7 +231,7 @@
         "Funcionalidades de arrastrar y soltar"
       ],
       "url": "",
-      "github": "https://github.com/ivannumpaque/task-manager"
+      "github": "https://github.com/Dev-IvanNumpaque/task-manager.git"
     }
   ]
 }
