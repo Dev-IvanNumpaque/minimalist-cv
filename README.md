@@ -40,7 +40,7 @@ El CV utiliza un esquema JSON basado en el estándar de [jsonresume.org](https:/
 
 ```bash
 # Clonar el repositorio
-git clone [URL del repositorio]
+git clone https://github.com/Dev-IvanNumpaque/minimalist-cv.git
 
 # Navegar al directorio del proyecto
 cd minimalist-cv
