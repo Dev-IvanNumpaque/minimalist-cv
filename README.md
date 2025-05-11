@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="./portada.png" height="auto" width="100%" />
+
 
 # ✨ CV Minimalista ✨
 
