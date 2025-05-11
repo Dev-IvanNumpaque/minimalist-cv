@@ -207,7 +207,7 @@
         "Diseño responsive con Tailwind CSS",
         "Optimizado para SEO"
       ],
-      "url": "https://devivannumpaque.web.app"
+      "url": "https://github.com/Dev-IvanNumpaque/minimalist-cv"
     },
     {
       "name": "E-commerce Demo",
@@ -218,7 +218,7 @@
         "Backend con Node.js y Express",
         "Base de datos MongoDB"
       ],
-      "url": "",
+      "url": "https://github.com/Dev-IvanNumpaque/ecommerce-demo",
       "github": "https://github.com/Dev-IvanNumpaque/ecommerce-demo.git"
     },
     {
@@ -230,7 +230,7 @@
         "Firebase para autenticación y base de datos",
         "Funcionalidades de arrastrar y soltar"
       ],
-      "url": "",
+      "url": "https://github.com/Dev-IvanNumpaque/task-manager",
       "github": "https://github.com/Dev-IvanNumpaque/task-manager.git"
     }
   ]

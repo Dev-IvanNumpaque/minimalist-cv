@@ -204,7 +204,7 @@
         "Diseño responsive con Tailwind CSS",
         "Optimizado para SEO"
       ],
-      "url": "https://dev-ivannumpaque.co"
+      "url": "https://github.com/Dev-IvanNumpaque/minimalist-cv"
     },
     {
       "name": "E-commerce Demo",
@@ -216,7 +216,7 @@
         "Base de datos MongoDB"
       ],
       "url": "",
-      "github": "https://github.com/ivannumpaque/ecommerce-demo"
+      "github": "https://github.com/dev-ivannumpaque/ecommerce-demo"
     },
     {
       "name": "Task Manager",
@@ -228,7 +228,7 @@
         "Funcionalidades de arrastrar y soltar"
       ],
       "url": "",
-      "github": "https://github.com/ivannumpaque/task-manager"
+      "github": "https://github.com/dev-ivannumpaque/task-manager"
     }
   ]
 }
